@@ -1,0 +1,2 @@
+C:\Users\ACER\Desktop\DATA STRUCTURES\Stack\Debug\Stack.exe
+C:\Users\ACER\Desktop\DATA STRUCTURES\Stack\Debug\Stack.pdb
